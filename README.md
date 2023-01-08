@@ -2,7 +2,7 @@
 
 Model :Asus Vivobook 15ja bq322ws
 
-Processor : i3-1005g1
+Processor : Intel i3-1005g1
 
 gpu : Intel iris for icelake processor(G7)
 
